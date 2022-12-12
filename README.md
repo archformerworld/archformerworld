@@ -18,15 +18,15 @@ When we say that we collect data for "Analytics", we mean that the data is used 
 
 Our staff may view your data, including "Analytics" data, only when:
 
-the Game is in the test, pre-release "beta" phase, or
+* the Game is in the test, pre-release "beta" phase, or
 
-it is necessary to execute a support request by you, or
+* it is necessary to execute a support request by you, or
 
-it is necessary to solve an issue you report in a feedback form, or
+* it is necessary to solve an issue you report in a feedback form, or
 
-it is necessary to investigate a technical issue, or
+* it is necessary to investigate a technical issue, or
 
-it is necessary to investigate cheating, fraud or threats towards the security and functioning of the Service or its users.
+* it is necessary to investigate cheating, fraud or threats towards the security and functioning of the Service or its users.
 
 We always avoid looking at all of your data and only focus on the data which is necessary for us to resolve the issue at hand.
 
