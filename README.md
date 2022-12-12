@@ -32,18 +32,10 @@ We always avoid looking at all of your data and only focus on the data which is 
 When you make the first start of the app, We ask for your consent for collecting data.
 Data
 
-Retention
 
-Reason
+| Date                | Retention          | Reason |
+| -------------       |:------------------:| -----:|
+| Gameplay statistics | 2 years            | Multiplayer matchmaking, displaying ranking lists, and for Analytics |
+| What you write in
+  the feedback form   | 2 years            |   Development and troubleshooting |
 
-Gameplay statistics
-
-2 years
-
-Multiplayer matchmaking, displaying ranking lists, and for Analytics
-
-What you write in the feedback form
-
-2 years
-
-Development and troubleshooting.
