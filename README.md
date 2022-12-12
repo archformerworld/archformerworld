@@ -31,7 +31,6 @@ Our staff may view your data, including "Analytics" data, only when:
 We always avoid looking at all of your data and only focus on the data which is necessary for us to resolve the issue at hand.
 
 When you make the first start of the app, We ask for your consent for collecting data.
-Data
 
 
 | Data                | Retention          | Reason |
