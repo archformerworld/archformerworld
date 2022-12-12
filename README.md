@@ -8,7 +8,7 @@ Gigaswords  have created this Privacy Policy to inform you of Our policies regar
 
 We will use and share your information only as described in this Privacy Policy.
 
-The latest version of this privacy policy is available at https://github.com/archformerworld/archformerworld/blob/c618053240713c4d552d375b50e39247692d9f4e/README.md If we make any material changes, we will publish a message in the Service that you will see when you start the app. Your continued use of the Service is subject to the latest privacy policy.
+The latest version of this privacy policy is available at https://github.com/archformerworld/archformerworld/blob/main/README.md If we make any material changes, we will publish a message in the Service that you will see when you start the app. Your continued use of the Service is subject to the latest privacy policy.
 
 Collection of data. 
 The following describes the data we collect, how long we retain the data (at maximum), and the reasons  why we collect it. In addition to the retention periods mentioned below, your data may survive in backups for up to 90 additional days. 
