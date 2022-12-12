@@ -36,6 +36,5 @@ Data
 | Date                | Retention          | Reason |
 | -------------       |:------------------:| -----:|
 | Gameplay statistics | 2 years            | Multiplayer matchmaking, displaying ranking lists, and for Analytics |
-| What you write in
-  the feedback form   | 2 years            |   Development and troubleshooting |
+| What you write in the feedback form   | 2 years            |   Development and troubleshooting |
 
